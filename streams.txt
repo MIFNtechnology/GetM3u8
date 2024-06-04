@@ -14,5 +14,5 @@
 ## Sky News || SkyNews.yt || News || https://../logo.png
 ## https://www.youtube.com/watch?v=w9uJg68CV4g
 
-Bernama Tv || BernamaTv.yt || siaranMy || https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png
+Bernama Tv || BernamaTv.yt || siaranMy || https://mifntechnology.github.io/siaranMy/logo/Bernama.png
 https://www.youtube.com/watch?v=vrdJHAi3elU
