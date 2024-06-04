@@ -20,8 +20,8 @@ jobs:
       - name: Grab Link
 
         run: |
-          git config --global user.email "dp247@hll.localhost"
-          git config --global user.name "dp247"
+          git config --global user.email "action@github.com"
+          git config --global user.name "Github Action"
           chmod +x exec_grabber.sh && ./exec_grabber.sh
           git add -A
           git commit -m "Playlist updated."
