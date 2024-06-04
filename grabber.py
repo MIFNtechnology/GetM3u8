@@ -177,9 +177,10 @@ with open('./streams.txt', encoding='utf-8') as f:
             line = line.split('||')
             channel_name = line[0].strip()
             channel_id = line[1].strip()
-            category = line[2].strip().title()
+            category = line[2].strip()
+            channel_logo = line[3].strip().title()
             print(
-                f'\n#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{channel_name}" group-title="{category}", {channel_name}')
+                f'\n#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{channel_name}" group-title="{category}" tvg-logo="{channel_logo}", {channel_name}')
         else:
             if urlparse(line).netloc == 'www.youtube.com':
                 grab_youtube(line)
