@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://raw.githubusercontent.com/MIFNtechnology/GetM3u8/main/epg.xml"
 
 #EXTINF:-1 tvg-id="BernamaTv.yt" tvg-name="Bernama Tv" group-title="Siaranmy", Bernama Tv
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717532016/ei/ECFfZoaaJPO-ybgP9cSReA/ip/172.183.122.147/id/vrdJHAi3elU.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fww340c7dsU93OE9uVnUdDHlLkToj5jk284b6nhw9933cDdc_d_AFev-dbQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMQtT_CKltmi_OpVBrg27UA8lELA4xPJb4BGVDAGwLTkCIQDHZBHJI2yqOhqYYUbGBDOdqeneLYP76GhP-CgzqnXFWQ%3D%3D/file/index.m3u8
