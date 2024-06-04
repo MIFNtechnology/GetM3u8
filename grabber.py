@@ -20,7 +20,7 @@ Generate 3-hourly blocks of times based on a current date
     """
     # Floor the last hour (e.g. 13:54:00 -> 13:00:00) and add timezone information
     last_hour = curr_dt.replace(microsecond=0, second=0, minute=0)
-    last_hour = tz.localize(last_hour)
+    last_hour = my_tz.localize(last_hour)
     start_dates = [last_hour]
 
     # Generate start times that are spaced out by three hours
