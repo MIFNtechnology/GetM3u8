@@ -165,7 +165,6 @@ def grab_twitch(url: str):
 channel_name = ''
 channel_id = ''
 category = ''
-channel_logo = ''
 
 # Open text file and parse stream information and URL
 with open('./streams.txt', encoding='utf-8') as f:
