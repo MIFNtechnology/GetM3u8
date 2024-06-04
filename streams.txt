@@ -1,0 +1,158 @@
+## FORMAT: <channel name> || <channel id> || <category>
+## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
+## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
+## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
+##
+## Examples:
+## Twitch:
+## CDawgVA || CDVA.tt || Gaming
+## https://www.twitch.tv/cdawgva
+## Dailymotion:
+## C-News || CNews.dm || News
+## https://www.dailymotion.com/video/x3b68jn
+## YouTube:
+## Sky News || SkyNews.yt || News
+## https://www.youtube.com/watch?v=w9uJg68CV4g
+
+Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
+https://www.youtube.com/watch?v=5yx6BWlEVcY
+
+Avex J-Pop 24/7 || Avex.yt || Music
+https://www.youtube.com/watch?v=tr77RbnfYIU
+
+Tomorrowland: One World Radio || TOWR.yt || Music
+https://www.youtube.com/watch?v=wBgSH-CGPzg
+
+JapanesePod101 Live || JPod101.yt || Education
+https://www.youtube.com/watch?v=pOL3cy8mkpw
+
+Korea.net Live || KoreaNet.yt || Education
+https://www.youtube.com/watch?v=7sR4ALIggEo
+
+Sky News || SkyNews.yt || News
+https://www.youtube.com/watch?v=w9uJg68CV4g
+
+France 24 (English) || France24En.yt || News
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+
+CGTN Europe || CGTN Europe.yt || News
+https://www.youtube.com/watch?v=Zv60F39Is_c
+
+CNA || CNA.yt || News
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+
+ABC News (US) || ABCNewsUS.yt || News
+https://www.youtube.com/watch?v=gN0PZCe-kwQ
+
+ABC News (AU) || ABCNewsAU.yt ||  News
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+Bloomberg Business || Bloomberg.yt || Finance
+https://www.youtube.com/watch?v=iyOq8DhaMYw
+
+Yahoo Finance || YahooFinance.yt || Finance
+https://www.youtube.com/watch?v=OAHHA27td-A
+
+Euronews || EuronewsEN.yt || News
+https://www.youtube.com/watch?v=pykpO5kQJ98
+
+NDTV 24x7 || NDTV.yt || News
+https://www.youtube.com/watch?v=sr2Ry9JVDtU
+
+SABC News || SABCNews.yt || News
+https://www.youtube.com/watch?v=AdA3_ZT61pg
+
+Al Jazeera English || AlJazeera.yt || News
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+TRT World || TRTWorld.yt || News
+https://www.youtube.com/watch?v=5VF4aor94gw
+
+CNBC Marathon || CNBCMarathon.yt || News
+https://www.youtube.com/watch?v=9NyxcX3rhQs
+
+DW News || DWNews.yt || News
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+
+NHK World Japan || NHKWorld.yt || News
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+
+Relaxing Jazz Piano Radio || JazzRadio.yt || Music
+https://www.youtube.com/watch?v=Dx5qFachd3A
+
+Epidemic Pop || EpidemicPop.yt || Music
+https://www.youtube.com/watch?v=wrEckgZZapI
+
+TOKYO Cafe || TokyoCafe.yt || Music
+https://www.youtube.com/watch?v=6uddGul0oAc
+
+Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio || RainyJazz.yt || Music
+https://www.youtube.com/watch?v=DSGyEsJ17cI
+
+Little Soul: Music to put you in a better mood || LittleSoul.yt || Music
+https://www.youtube.com/watch?v=XstikgbeTPI
+
+Lofi Girl: lofi hip hop radio (beats to relax/study to) || LofiGirl1.yt || Music
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+Lofi Girl: lofi hip hop radio (beats to sleep/chill to) || LofiGirl2.yt || Music
+https://www.youtube.com/watch?v=rUxyKA_-grg
+
+Jazz Cafe Ambience || JazzCafeAmbience.yt || Music
+https://www.youtube.com/watch?v=AEKtQW93OVg
+
+Abao in Tokyo: jazz/lofi hip hop radio || AbaoInTokyo.yt || Music
+https://www.youtube.com/watch?v=ehTuatSx5Wc
+
+The Good Life Radio || GoodLifeRadio.yt || Music
+https://www.youtube.com/watch?v=36YnV9STBqc
+
+KBS WORLD TV K-Pop || KBSWorldKPop.yt || Music
+https://www.youtube.com/watch?v=FrWldCxToAQ
+
+KBS KOREA Live || KBSKorea.yt || News
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+
+KBS World Radio || KBSWorldRadio.yt || Radio
+https://www.youtube.com/watch?v=EIfaYst9ZsY
+
+Arirang TV || ArirangTV.yt || Education
+https://www.youtube.com/watch?v=CJVBX7KI5nU
+
+Arirang Radio || ArirangRadio.yt || Radio
+https://www.youtube.com/watch?v=P1fX2GGdVS0
+
+TBS Korea eFM 101.3 || TBS1013.yt || Radio
+https://www.youtube.com/watch?v=i2pC0RRyGMg
+
+FeelingInTheBeat Radio || FeelingInTheBeat.yt || Music
+https://www.youtube.com/watch?v=oh_TjZYB5s4
+
+Datawave FM || DatawaveFM.yt || Music
+https://www.youtube.com/watch?v=oh_TjZYB5s4
+
+VaporFunk Station || VaporFunk.yt || Music
+https://www.youtube.com/watch?v=fwb1fUIESi0
+
+Korea Underground || MellowbeatSeeker.yt || Music
+https://www.youtube.com/watch?v=IUT1qAhMY4w
+
+THE K-POP Live || TheKPopLive.yt || Music
+https://www.youtube.com/watch?v=JVocS7Yftw8
+
+NASA Starbase Live || NASALive.yt || Live
+https://www.youtube.com/watch?v=mhJRzQsLZGg
+
+United Nations Live || UnitedNations.yt || Live
+https://www.youtube.com/watch?v=wfAa1GiNdgM
+
+渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
+https://www.youtube.com/watch?v=3kPH7kTphnE
+
+Bloomberg Quicktake || BloombergQuickTake.yt || Documentaries
+https://www.youtube.com/watch?v=DxmDPrfinXY
+
+Nat Geo Wild: Savage Kingdom || SavageKingdom.yt || Documentaries
+https://www.youtube.com/watch?v=BJ3Yv572V1A
+
+
