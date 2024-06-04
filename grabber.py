@@ -44,7 +44,7 @@ Build an XMLTV file based on provided stream information
     """
     data = etree.Element("tv")
     data.set("generator-info-name", "youtube-live-epg")
-    data.set("generator-info-url", "https://github.com/dp247/YouTubeToM3U8")
+    data.set("generator-info-url", "https://github.com/MIFNtechnology/GetM3u8")
 
     for stream in streams:
         channel = etree.SubElement(data, "channel")
