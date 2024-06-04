@@ -1,7 +1,8 @@
 ## FORMAT: <channel name> || <channel id> || <category> || <channel logo>
 ## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
+##<category> is used to group streams, so something like 'Music' or 'News' is recommended.
+##<channel logo> use https url for view image logo.
 ##
 ## Examples:
 ## Twitch:
