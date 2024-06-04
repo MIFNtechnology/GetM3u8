@@ -1,7 +1,9 @@
-# StreamsToM3U8
+[![LinkGrabber](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml/badge.svg?branch=main)](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml)
+
+# GetM3u8
 This repo automatically converts live streams into a single .m3u8 playlist and keeps them updated. The stream URLs are stored in a text file, which a Python script parses and builds the .m3u8 file from when a GitHub action is triggered (triggered by a cron job). A direct link can then be used to get the playlist, which can then be used in an IPTV app or xTeVe.
 
-With thanks to [@victorlish](https://github.com/victorlish/YouTubeLinkGrabber) for the original project.
+With thanks to [@dp247](https://github.com/dp247/StreamsToM3U8) for the upgraded project.
 
 ## Supported sites
 |                                                                                                                                          | Stream | EPG |
@@ -31,10 +33,10 @@ You can also run the program locally by `python grabber.py > ./streams.m3u8` or 
 ## Files
 - If you want to use this repo as your source, remember to replace the username in the below URLs:
   
-|           | Link                                                                       |
+|           | **Link**                                                                       |
 |-----------|----------------------------------------------------------------------------|
-| M3U8 file | https://raw.githubusercontent.com/username/StreamsToM3U8/main/streams.m3u8 |
-| EPG       | https://raw.githubusercontent.com/username/StreamsToM3U8/main/epg.xml      |
+| M3U8 file | `https://raw.githubusercontent.com/username/GetM3u8/main/streams.m3u8` |
+| EPG       | `https://raw.githubusercontent.com/username/GetM3u8/main/epg.xml`      |
 
 
 ## Future additions
@@ -44,7 +46,7 @@ You can also run the program locally by `python grabber.py > ./streams.m3u8` or 
 - ~~Support for TV guides/EPG matching~~
 
 ## Contributions and support
-Please report the following using [Issues]([url](https://github.com/dp247/StreamsToM3U8/issues/new)):
+Please report the following using [Issues]([url](https://github.com/MIFNtechnology/GetM3u8/issues/new)):
 - Bugs - such as something within the code breaking
 - Enhancements - such as support for more sites
 
