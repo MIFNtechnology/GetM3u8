@@ -1,18 +1,18 @@
-## FORMAT: <channel name> || <channel id> || <category>
+## FORMAT: <channel name> || <channel id> || <category> || <channel logo>
 ## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 ##
 ## Examples:
 ## Twitch:
-## CDawgVA || CDVA.tt || Gaming
+## CDawgVA || CDVA.tt || Gaming || https://../logo.png
 ## https://www.twitch.tv/cdawgva
 ## Dailymotion:
-## C-News || CNews.dm || News
+## C-News || CNews.dm || News || https://../logo.png
 ## https://www.dailymotion.com/video/x3b68jn
 ## YouTube:
-## Sky News || SkyNews.yt || News
+## Sky News || SkyNews.yt || News || https://../logo.png
 ## https://www.youtube.com/watch?v=w9uJg68CV4g
 
-Bernama Tv || BernamaTv.yt || siaranMy
+Bernama Tv || BernamaTv.yt || siaranMy || https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png
 https://www.youtube.com/watch?v=vrdJHAi3elU
