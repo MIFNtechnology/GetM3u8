@@ -6,14 +6,14 @@
 ##
 ## Examples:
 ## Twitch:
-## CDawgVA || CDVA.tt || Gaming || https://../logo.png
+## CDawgVA || CDVA.tt || Gaming || https://../logo.jpg
 ## https://www.twitch.tv/cdawgva
 ## Dailymotion:
-## C-News || CNews.dm || News || https://../logo.png
+## C-News || CNews.dm || News || https://../logo.jpg
 ## https://www.dailymotion.com/video/x3b68jn
 ## YouTube:
-## Sky News || SkyNews.yt || News || https://../logo.png
+## Sky News || SkyNews.yt || News || https://../logo.jpg
 ## https://www.youtube.com/watch?v=w9uJg68CV4g
 
-Bernama Tv || BernamaTv.yt || siaranMy || https://mifntechnology.github.io/siaranMy/logo/Bernama.png
+Bernama Tv || BernamaTv.yt || siaranMy || https://i.ytimg.com/vi/vrdJHAi3elU/maxresdefault_live.jpg
 https://www.youtube.com/watch?v=vrdJHAi3elU
