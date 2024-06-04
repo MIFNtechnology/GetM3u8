@@ -8,12 +8,8 @@ import requests
 from lxml import etree
 from bs4 import BeautifulSoup
 
-localtz=pytz.timezone('Europe/London')
-now=localtz.localize(now)
-kuala_lumpur=pytz.timezone('Asia/Kuala_Lumpur')
-now_in_kuala_lumpur=now.astimezone(kuala_lumpur)
-print(now_in_kuala_lumpur)
-# 2024-06-05 01:24:46.342254+08:00
+for tz in pytz.all_timezone:('Asia/Kuala_Lumpur')
+    print tz
 channels = []
 
 
