@@ -179,7 +179,7 @@ with open('./streams.txt', encoding='utf-8') as f:
             channel_name = line[0].strip()
             channel_id = line[1].strip()
             category = line[2].strip()
-            channel_logo = line[3].strip('url').title()
+            channel_logo = line[3].strip('https:').title()
             print(
                 f'\n#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{channel_name}" group-title="{category}" tvg-logo="{channel_logo}", {channel_name}')
         else:
