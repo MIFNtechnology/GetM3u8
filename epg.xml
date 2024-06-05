@@ -85,49 +85,6 @@
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
     <icon src="https://i.ytimg.com/vi/uKLoF1waOvc/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Tv9.yt">
-    <display-name lang="en">Tv9</display-name>
-  </channel>
-  <programme channel="Tv9.yt" start="20240605120000 +0800" stop="20240605150000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240605150000 +0800" stop="20240605180000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240605180000 +0800" stop="20240605210000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240605210000 +0800" stop="20240606000000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240606000000 +0800" stop="20240606030000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240606030000 +0800" stop="20240606060000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240606060000 +0800" stop="20240606090000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
-  <programme channel="Tv9.yt" start="20240606090000 +0800" stop="20240606120000 +0800">
-    <title lang="en">Alat Mainan Seks Lebih RM2 Juta | Buletin TV9, 5 Jun 2024</title>
-    <desc lang="en">Buletin TV9 jam 7 malam siaran Rabu, 5 Jun 2024 bersama penyampai  Irfan Ali dan Saree Abdullah.======================Ikuti kami di media sosial: Facebook: h...</desc>
-    <icon src="https://i.ytimg.com/vi/J_9gYqMpHBk/maxresdefault.jpg"/>
-  </programme>
   <channel id="iNewsTv.yt">
     <display-name lang="en">iNewsTv</display-name>
   </channel>
