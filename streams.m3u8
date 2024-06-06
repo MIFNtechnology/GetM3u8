@@ -1,1 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="BernamaTv.yt" tvg-name="Bernama Tv" group-title="Siaranmy",Bernama Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717711651/ei/w95hZum-CumFkucPw_OwmA8/ip/20.55.14.163/id/vrdJHAi3elU.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_xu39prcNmo2h9mKhuyFXvbiO1QltWiN1M0BvPFrZ85dA97v0B8GLv2FtY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgF5b9GfKhQ4s85qU7BWtCQPP9hQgC4NfsgORDUpo7Vn8CIQDay5VR40Y0YYXnIbo4qz2G4GCSsD-WRs0mWPN_3IG6ow%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="Astro Awani" group-title="Siaranmy",Astro Awani
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="Disneyjunior.yt" tvg-name="Disneyjunior" group-title="Kids",Disneyjunior
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717711652/ei/xN5hZoCcDcGFkucP6uejwAY/ip/20.55.14.163/id/OjlaUkllTss.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_qHwppSXKSPrQ1A8PPByh8kLpbHHYWnlKSjBgMeplSbUdF-JhQVpHWz8nk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIaX6zfiVTWPw7ZRgDT606L8v5MUuGsatQF6yPBeB_0gCIQCxsntUwzXKvX0nDDjno3u2H2wisxvsSibAtn2oJQz4sA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Spongebob.yt" tvg-name="Spongebob" group-title="Kids",Spongebob
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717711652/ei/xN5hZpPgLKGIkucPrdyCuQY/ip/20.55.14.163/id/jW4IFY1JPU8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4mw1i37tiYXeva3icBm6c4fkgEF-MYXsNKyU9CAGLBGvGmKrNw9vuJuH6I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJBCJuxENCfAGdysEC3HYZw9726o87kuSoShAEZ6-zZDAiEA0FZFP9EPkAulqbEuG-CcSYwPPXg0ssFXtt8sXJnIxVc%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Didi&Friend.yt" tvg-name="Didi&Friend" group-title="Kids",Didi&Friend
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717711653/ei/xd5hZtzcDcKJkucP4Piq2Qk/ip/20.55.14.163/id/Tx7QX9gRgxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f3g-RQEA-Dr6XiXH0BCO15WKSP5Hs0x4NMOLGywAEKMPCKIpTfsBK1tgv8I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO4F8EsQh0X46M-ZxFQl3hD8u5HIfQFoD13NCKn6qwLhAiBomyCQb1snbJv2MRXEdxuSu9KM2D243LO3shF-JhrNuw%3D%3D/file/index.m3u8
