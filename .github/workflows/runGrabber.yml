@@ -5,7 +5,7 @@ on:
     - cron: '0 */3 * * *'
 
   pull_request:
-    branches: [ main ]
+    branches: [ github-private ]
 
   workflow_dispatch:
 jobs:
