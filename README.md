@@ -1,4 +1,4 @@
-[![LinkGrabber](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml/badge.svg?branch=github-private)](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml)
+[![LinkGrabber](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml/badge.svg)](https://github.com/MIFNtechnology/GetM3u8/actions/workflows/runGrabber.yml)
 
 # GetM3u8
 This repo automatically converts live streams into a single .m3u8 playlist and keeps them updated. The stream URLs are stored in a text file, which a Python script parses and builds the .m3u8 file from when a GitHub action is triggered (triggered by a cron job). A direct link can then be used to get the playlist, which can then be used in an IPTV app or xTeVe.
