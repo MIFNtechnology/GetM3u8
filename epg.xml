@@ -42,4 +42,47 @@
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
     <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="BeritaRTM.yt">
+    <display-name lang="en">Berita RTM</display-name>
+  </channel>
+  <programme channel="BeritaRTM.yt" start="20240607060000 +0800" stop="20240607090000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240607090000 +0800" stop="20240607120000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240607120000 +0800" stop="20240607150000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240607150000 +0800" stop="20240607180000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240607180000 +0800" stop="20240607210000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240607210000 +0800" stop="20240608000000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240608000000 +0800" stop="20240608030000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240608030000 +0800" stop="20240608060000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
 </tv>
