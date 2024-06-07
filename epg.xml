@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/MIFNtechnology/GetM3u8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/MIFNtechnology/GetM3u8">
+  <channel id="AstroAwani.yt">
+    <display-name lang="en">Astro Awani</display-name>
+  </channel>
+  <programme channel="AstroAwani.yt" start="20240607060000 +0800" stop="20240607090000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240607090000 +0800" stop="20240607120000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240607120000 +0800" stop="20240607150000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240607150000 +0800" stop="20240607180000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240607180000 +0800" stop="20240607210000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240607210000 +0800" stop="20240608000000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240608000000 +0800" stop="20240608030000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="AstroAwani.yt" start="20240608030000 +0800" stop="20240608060000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/zDyhaUaaFqI/maxresdefault_live.jpg"/>
+  </programme>
+</tv>
