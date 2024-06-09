@@ -2,11 +2,6 @@
   <channel id="BeritaRTM.yt">
     <display-name lang="en">Berita RTM</display-name>
   </channel>
-  <programme channel="BeritaRTM.yt" start="20240609030000 +0800" stop="20240609060000 +0800">
-    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
-    <desc lang="en">No description provided</desc>
-    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="BeritaRTM.yt" start="20240609060000 +0800" stop="20240609090000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="BeritaRTM.yt" start="20240610030000 +0800" stop="20240610060000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/69MAPUlBvTI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="HotFm.yt">
     <display-name lang="en">Hot Fm</display-name>
   </channel>
-  <programme channel="HotFm.yt" start="20240609030000 +0800" stop="20240609060000 +0800">
-    <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
-    <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
-    <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="HotFm.yt" start="20240609060000 +0800" stop="20240609090000 +0800">
     <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
     <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
@@ -81,6 +76,11 @@
     <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="HotFm.yt" start="20240610000000 +0800" stop="20240610030000 +0800">
+    <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
+    <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
+    <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="HotFm.yt" start="20240610030000 +0800" stop="20240610060000 +0800">
     <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
     <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
     <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
