@@ -2,11 +2,6 @@
   <channel id="AstroAwani.yt">
     <display-name lang="en">AWANI Live 24/7</display-name>
   </channel>
-  <programme channel="AstroAwani.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
-    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
-    <icon src="https://i.ytimg.com/vi/kIhw0QLt2Uk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="AstroAwani.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">🔴 AWANI Live 24/7 🔴</title>
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
     <icon src="https://i.ytimg.com/vi/kIhw0QLt2Uk/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="AstroAwani.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/kIhw0QLt2Uk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="BeritaRTM.yt">
     <display-name lang="en">Berita RTM [ LANGSUNG ] 24 JAM</display-name>
   </channel>
-  <programme channel="BeritaRTM.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
-    <desc lang="en">No description provided</desc>
-    <icon src="https://i.ytimg.com/vi/tjZ8i9NM-nU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="BeritaRTM.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
@@ -85,14 +80,14 @@
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/tjZ8i9NM-nU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="BeritaRTM.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/tjZ8i9NM-nU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="HotFm.yt">
     <display-name lang="en">Hot Fm (Terus strim live bersama kami)</display-name>
   </channel>
-  <programme channel="HotFm.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
-    <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
-    <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="HotFm.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
     <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
@@ -128,14 +123,14 @@
     <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
     <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="HotFm.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">🎙🎼#KJJadiDJ di Hot FM 🔴 Terus strim live bersama kami  🎶📻🔥</title>
+    <desc lang="en">Yang Hangat dan Terbaik!6 pagi - 10 pagi | Bekpes Hot bersama Johan, Fara Fauzana &amp; AG + KJ10 pagi - 3 petang | FYP@ Hot bersama Keymi3 petang - 7 malam | Ho...</desc>
+    <icon src="https://i.ytimg.com/vi/K9Rbcmp2Svk/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Spongebob.yt">
     <display-name lang="en">Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa</display-name>
   </channel>
-  <programme channel="Spongebob.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">🟠LANGSUNG: Jika SpongeBob adalah Episode-Episode Anime yang Digambar Ulang | | Nickelodeon Bahasa</title>
-    <desc lang="en">SpongeBob dan Tuan Krabs terlihat selucu karakter anime! Tonton episode-episode klasik SpongeBob SquarePants yang ditata ulang dalam gaya animasi berbeda! Pr...</desc>
-    <icon src="https://i.ytimg.com/vi/jW4IFY1JPU8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Spongebob.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">🟠LANGSUNG: Jika SpongeBob adalah Episode-Episode Anime yang Digambar Ulang | | Nickelodeon Bahasa</title>
     <desc lang="en">SpongeBob dan Tuan Krabs terlihat selucu karakter anime! Tonton episode-episode klasik SpongeBob SquarePants yang ditata ulang dalam gaya animasi berbeda! Pr...</desc>
@@ -171,14 +166,14 @@
     <desc lang="en">SpongeBob dan Tuan Krabs terlihat selucu karakter anime! Tonton episode-episode klasik SpongeBob SquarePants yang ditata ulang dalam gaya animasi berbeda! Pr...</desc>
     <icon src="https://i.ytimg.com/vi/jW4IFY1JPU8/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Spongebob.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">🟠LANGSUNG: Jika SpongeBob adalah Episode-Episode Anime yang Digambar Ulang | | Nickelodeon Bahasa</title>
+    <desc lang="en">SpongeBob dan Tuan Krabs terlihat selucu karakter anime! Tonton episode-episode klasik SpongeBob SquarePants yang ditata ulang dalam gaya animasi berbeda! Pr...</desc>
+    <icon src="https://i.ytimg.com/vi/jW4IFY1JPU8/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="DisneyJunior.yt">
     <display-name lang="en">LIVE! All Minnie's Bow-Toons! @disneyjunior</display-name>
   </channel>
-  <programme channel="DisneyJunior.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
-    <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
-    <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="DisneyJunior.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
     <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
@@ -214,14 +209,14 @@
     <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
     <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="DisneyJunior.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">🔴 LIVE! All Minnie's Bow-Toons! 🎀| NEW BOW-TOONS: CAMP MINNIE SHORTS! | @disneyjunior</title>
+    <desc lang="en">There’s no business like bow business! Minnie Mouse teams up with her friend Daisy Duck to open up Minnie’s Bow-tique, a store that sells bows and ties to al...</desc>
+    <icon src="https://i.ytimg.com/vi/OjlaUkllTss/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Nickelodeon.yt">
     <display-name lang="en">Nickelodeon Bahasa</display-name>
   </channel>
-  <programme channel="Nickelodeon.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">🔴Teenage Mutant Ninja Turtles | LANGSUNG: TMNT (2012) - 8 Episode Pertama! 🐢 | Nickelodeon Bahasa</title>
-    <desc lang="en">Deskripsi (bahasa Indonesia): Kami menghadirkan 8 episode pertama dari Teenage Mutant Ninja Turtles! Masuki dunia TMNT bersama Leo, Mikey, Raph, dan Donnie d...</desc>
-    <icon src="https://i.ytimg.com/vi/s5q_AURzAk8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Nickelodeon.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">🔴Teenage Mutant Ninja Turtles | LANGSUNG: TMNT (2012) - 8 Episode Pertama! 🐢 | Nickelodeon Bahasa</title>
     <desc lang="en">Deskripsi (bahasa Indonesia): Kami menghadirkan 8 episode pertama dari Teenage Mutant Ninja Turtles! Masuki dunia TMNT bersama Leo, Mikey, Raph, dan Donnie d...</desc>
@@ -257,14 +252,14 @@
     <desc lang="en">Deskripsi (bahasa Indonesia): Kami menghadirkan 8 episode pertama dari Teenage Mutant Ninja Turtles! Masuki dunia TMNT bersama Leo, Mikey, Raph, dan Donnie d...</desc>
     <icon src="https://i.ytimg.com/vi/s5q_AURzAk8/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Nickelodeon.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
+    <title lang="en">🔴Teenage Mutant Ninja Turtles | LANGSUNG: TMNT (2012) - 8 Episode Pertama! 🐢 | Nickelodeon Bahasa</title>
+    <desc lang="en">Deskripsi (bahasa Indonesia): Kami menghadirkan 8 episode pertama dari Teenage Mutant Ninja Turtles! Masuki dunia TMNT bersama Leo, Mikey, Raph, dan Donnie d...</desc>
+    <icon src="https://i.ytimg.com/vi/s5q_AURzAk8/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="SuriaFM.yt">
     <display-name lang="en">Suria Fm-Live (Segalanya Hiburan di Suria)</display-name>
   </channel>
-  <programme channel="SuriaFM.yt" start="20240615090000 +0800" stop="20240615120000 +0800">
-    <title lang="en">SURIA FM-LIVE Radio 📻 Lagu-Lagu Hits Dahulu Hingga Yang Terkini 🎶🎤🎸</title>
-    <desc lang="en">Segalanya Hiburan di Suria! Dengarkan lagu-lagu hits dahulu hingga yang terkini di Suria FM di Radio, Laman Web atau App. Ikuti kami di www.suria.my!Muat tur...</desc>
-    <icon src="https://i.ytimg.com/vi/dxYe2PnbZ8g/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SuriaFM.yt" start="20240615120000 +0800" stop="20240615150000 +0800">
     <title lang="en">SURIA FM-LIVE Radio 📻 Lagu-Lagu Hits Dahulu Hingga Yang Terkini 🎶🎤🎸</title>
     <desc lang="en">Segalanya Hiburan di Suria! Dengarkan lagu-lagu hits dahulu hingga yang terkini di Suria FM di Radio, Laman Web atau App. Ikuti kami di www.suria.my!Muat tur...</desc>
@@ -296,6 +291,11 @@
     <icon src="https://i.ytimg.com/vi/dxYe2PnbZ8g/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="SuriaFM.yt" start="20240616060000 +0800" stop="20240616090000 +0800">
+    <title lang="en">SURIA FM-LIVE Radio 📻 Lagu-Lagu Hits Dahulu Hingga Yang Terkini 🎶🎤🎸</title>
+    <desc lang="en">Segalanya Hiburan di Suria! Dengarkan lagu-lagu hits dahulu hingga yang terkini di Suria FM di Radio, Laman Web atau App. Ikuti kami di www.suria.my!Muat tur...</desc>
+    <icon src="https://i.ytimg.com/vi/dxYe2PnbZ8g/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SuriaFM.yt" start="20240616090000 +0800" stop="20240616120000 +0800">
     <title lang="en">SURIA FM-LIVE Radio 📻 Lagu-Lagu Hits Dahulu Hingga Yang Terkini 🎶🎤🎸</title>
     <desc lang="en">Segalanya Hiburan di Suria! Dengarkan lagu-lagu hits dahulu hingga yang terkini di Suria FM di Radio, Laman Web atau App. Ikuti kami di www.suria.my!Muat tur...</desc>
     <icon src="https://i.ytimg.com/vi/dxYe2PnbZ8g/maxresdefault_live.jpg"/>
