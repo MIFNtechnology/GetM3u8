@@ -14,7 +14,7 @@ channels = []
 
 def generate_times(curr_dt: datetime):
     """
-Generate 3-hourly blocks of times based on a current date
+Generate 6-hourly blocks of times based on a current date
     :param curr_dt: The current time the script is executed
     :return: A tuple that contains a list of start dates and a list of end dates
     """
@@ -23,15 +23,15 @@ Generate 3-hourly blocks of times based on a current date
     last_hour = my_tz.localize(last_hour)
     start_dates = [last_hour]
 
-    # Generate start times that are spaced out by three hours
+    # Generate start times that are spaced out by six hours
     for x in range(7):
-        last_hour += timedelta(hours=3)
+        last_hour += timedelta(hours=6)
         start_dates.append(last_hour)
 
-    # Copy everything except the first start date to a new list, then add a final end date three hours after the last
+    # Copy everything except the first start date to a new list, then add a final end date six hours after the last
     # start date
     end_dates = start_dates[1:]
-    end_dates.append(start_dates[-1] + timedelta(hours=3))
+    end_dates.append(start_dates[-1] + timedelta(hours=6))
 
     return start_dates, end_dates
 
