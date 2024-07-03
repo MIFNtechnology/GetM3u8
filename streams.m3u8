@@ -4,22 +4,3 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="Berita RTM [ LANGSUNG ] 24 JAM" group-title="Siaranmy",Berita RTM [ LANGSUNG ] 24 JAM
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="HotFm.yt" tvg-name="Hot Fm (Terus strim live bersama kami)" group-title="Radiomy",Hot Fm (Terus strim live bersama kami)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720031171/ei/Y0OFZqK3Hc6zsfIPmu-WmA0/ip/20.172.17.141/id/K9Rbcmp2Svk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATnue3gWHDNOKzPsTl0FnWOScGiGwNLwbnMLmtd_G11SnpmKNas6UMhgrtA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANBHu_tQCjwSfVdd_QfAHkJUs8Bvy56CvajyX54OtpA4AiAyOnzPPrIscuTR4ojsEqXTfnA5Pt9FIUkfRbWeXbCphA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="Spongebob.yt" tvg-name="Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa" group-title="Kids",Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="DisneyJunior.yt" tvg-name="LIVE! All Minnie's Bow-Toons! @disneyjunior" group-title="Kids",LIVE! All Minnie's Bow-Toons! @disneyjunior
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720031172/ei/ZEOFZrHkI8jasfIPkIariAk/ip/20.172.17.141/id/OjlaUkllTss.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAW0Fb2oRI86JD4VamQxGCpo6zwtSPJuFLSQ87u71UpQU6y99xnV3c8g2rI8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYYt9heGzM_6tZLnBeR5iPJW6LrW-nlT5fp7ln0cbVMACIE1aA6uFxVfC4boSm3vQxUaiRllnQ_d-B7X5X0VzPEMM/file/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.yt" tvg-name="Nickelodeon Bahasa" group-title="Kids",Nickelodeon Bahasa
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="SuriaFM.yt" tvg-name="Suria Fm-Live (Segalanya Hiburan di Suria)" group-title="Radiomy",Suria Fm-Live (Segalanya Hiburan di Suria)
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="Didi.yt" tvg-name="Didi and Friend" group-title="Kids",Didi and Friend
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720031173/ei/ZUOFZouaNIHjsfIPr5vHgAM/ip/20.172.17.141/id/Tx7QX9gRgxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/NO7bAWlQp8nnHu-3MBO2d5KU__CIb2FK6iSz_2bdMmvlLGX9xbVMJYJ50EYKx0k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZiRUjg7Oz59j_tsfU0N4TxqoeoeUJweSzEO6nb5NWQoCIQC5qziCANJr1RobSx33Zxo1pbn9szpvRD-Em5W2nsov5Q%3D%3D/file/index.m3u8
