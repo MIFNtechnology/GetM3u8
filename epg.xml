@@ -2,87 +2,44 @@
   <channel id="BeritaRTM.yt">
     <display-name lang="en">Berita RTM [ LANGSUNG ] 24 JAM</display-name>
   </channel>
-  <programme channel="BeritaRTM.yt" start="20240709180000 +0800" stop="20240710000000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240710010000 +0800" stop="20240710070000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240710000000 +0800" stop="20240710060000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240710070000 +0800" stop="20240710130000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240710060000 +0800" stop="20240710120000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240710130000 +0800" stop="20240710190000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240710120000 +0800" stop="20240710180000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240710190000 +0800" stop="20240711010000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240710180000 +0800" stop="20240711000000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240711010000 +0800" stop="20240711070000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240711000000 +0800" stop="20240711060000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240711070000 +0800" stop="20240711130000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240711060000 +0800" stop="20240711120000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240711130000 +0800" stop="20240711190000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240711120000 +0800" stop="20240711180000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240711190000 +0800" stop="20240712010000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
-  </programme>
-  <channel id="Nicktoons.yt">
-    <display-name lang="en">Nicktoons</display-name>
-  </channel>
-  <programme channel="Nicktoons.yt" start="20240709180000 +0800" stop="20240710000000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240710000000 +0800" stop="20240710060000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240710060000 +0800" stop="20240710120000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240710120000 +0800" stop="20240710180000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240710180000 +0800" stop="20240711000000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240711000000 +0800" stop="20240711060000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240711060000 +0800" stop="20240711120000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Nicktoons.yt" start="20240711120000 +0800" stop="20240711180000 +0800">
-    <title lang="en">🔴 LIVE: The Fairly OddParents - FULL EPISODE MARATHON 🧚 | Nickelodeon</title>
-    <desc lang="en">It's a wish come true! Get ready for a FULL EPISODE MARATHON featuring your favorite Fairy GodParents, Cosmo and Wanda, and Timmy Turner from The Fairly OddP...</desc>
-    <icon src="https://i.ytimg.com/vi/oUTtf9VRjtw/maxresdefault_live.jpg"/>
   </programme>
 </tv>
