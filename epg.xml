@@ -2,11 +2,6 @@
   <channel id="AwaniLive.yt">
     <display-name lang="en">AWANI Live 24/7</display-name>
   </channel>
-  <programme channel="AwaniLive.yt" start="20240724120000 +0800" stop="20240724180000 +0800">
-    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
-    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
-    <icon src="https://i.ytimg.com/vi/Dm6Dc7v3d_M/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="AwaniLive.yt" start="20240724180000 +0800" stop="20240725000000 +0800">
     <title lang="en">🔴 AWANI Live 24/7 🔴</title>
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
@@ -42,14 +37,14 @@
     <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
     <icon src="https://i.ytimg.com/vi/Dm6Dc7v3d_M/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="AwaniLive.yt" start="20240726120000 +0800" stop="20240726180000 +0800">
+    <title lang="en">🔴 AWANI Live 24/7 🔴</title>
+    <desc lang="en">Saluran berita yang paling dipercayai di Malaysia kini dibawakan secara langsung kepada anda menerusi platform Youtube. Ikuti perkembangan terkini dalam dan ...</desc>
+    <icon src="https://i.ytimg.com/vi/Dm6Dc7v3d_M/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="BeritaRTM.yt">
     <display-name lang="en">Berita RTM [ LANGSUNG ] 24 JAM</display-name>
   </channel>
-  <programme channel="BeritaRTM.yt" start="20240724120000 +0800" stop="20240724180000 +0800">
-    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
-    <desc lang="en">No description provided</desc>
-    <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="BeritaRTM.yt" start="20240724180000 +0800" stop="20240725000000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
@@ -81,6 +76,11 @@
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="BeritaRTM.yt" start="20240726060000 +0800" stop="20240726120000 +0800">
+    <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
+    <desc lang="en">No description provided</desc>
+    <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="BeritaRTM.yt" start="20240726120000 +0800" stop="20240726180000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
