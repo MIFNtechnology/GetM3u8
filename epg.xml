@@ -2,42 +2,42 @@
   <channel id="BeritaRTM.yt">
     <display-name lang="en">Berita RTM [ LANGSUNG ] 24 JAM</display-name>
   </channel>
-  <programme channel="BeritaRTM.yt" start="20240805010000 +0800" stop="20240805070000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240805060000 +0800" stop="20240805120000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240805070000 +0800" stop="20240805130000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240805120000 +0800" stop="20240805180000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240805130000 +0800" stop="20240805190000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240805180000 +0800" stop="20240806000000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240805190000 +0800" stop="20240806010000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240806000000 +0800" stop="20240806060000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240806010000 +0800" stop="20240806070000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240806060000 +0800" stop="20240806120000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240806070000 +0800" stop="20240806130000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240806120000 +0800" stop="20240806180000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240806130000 +0800" stop="20240806190000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240806180000 +0800" stop="20240807000000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
   </programme>
-  <programme channel="BeritaRTM.yt" start="20240806190000 +0800" stop="20240807010000 +0800">
+  <programme channel="BeritaRTM.yt" start="20240807000000 +0800" stop="20240807060000 +0800">
     <title lang="en">Berita RTM  [ LANGSUNG ] 24 JAM</title>
     <desc lang="en">No description provided</desc>
     <icon src="https://i.ytimg.com/vi/E2RbocAYnY0/maxresdefault_live.jpg"/>
