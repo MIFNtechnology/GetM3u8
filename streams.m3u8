@@ -4,7 +4,7 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="Berita RTM [ LANGSUNG ] 24 JAM" group-title="Siaranmy",Berita RTM [ LANGSUNG ] 24 JAM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722882446/ei/LsWwZru_G_a-sfIP3b76mAg/ip/20.172.7.67/id/E2RbocAYnY0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWuwfGA1c5YrUeMTcrHMzlw7YaDP6GA4mr1Whs7npB6_Ll732Pf9DTfmhEQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN3c9HPr7l2el1LxIKHpYvddTf3HgmIWpiYp1hkRt-AbAiBTyuz-hyuUyAjOhgPaTA842Y2iXu40uObtrIH3T-qaRg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722903545/ei/mRexZvzrEbmBkucP0pf7kA4/ip/20.55.14.151/id/E2RbocAYnY0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAX47xMkW79BFca0hyaX28jnisLhMOBJnArpaAyVLMKGpo8q1LZjxEZKO0UY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMy5WFWguRI4I4v1pxY-kV4VNQu6BH7G_XX7Y6wkCgkUCIHk2C_4tA1axe1b4uxU2WZSLf3wyOoSOwbuUrQP_fuyQ/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.yt" tvg-name="Nicktoons" group-title="Kids",Nicktoons
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
