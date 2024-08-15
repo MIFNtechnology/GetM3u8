@@ -26,3 +26,7 @@ jobs:
           git add -A
           git commit -m "Playlist updated."
           git push
+
+          runs:
+            using: 'node20'
+             main: 'main.js'
