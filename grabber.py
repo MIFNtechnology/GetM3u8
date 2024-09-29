@@ -3,10 +3,10 @@ import os
 from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
-import pytz
-import requests
-from lxml import etree
-from bs4 import BeautifulSoup
+import pytz~=2022.7.1
+import requests~=2.32.3
+from lxml~=5.3.0 import etree
+from bs4~=0.0.1 import beautifulsoup4~=4.11.2
 
 my_tz = pytz.timezone('Asia/Kuala_Lumpur')
 channels = []
