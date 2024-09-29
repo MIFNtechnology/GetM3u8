@@ -2,7 +2,7 @@ name: LinkGrabber
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */5 * * *'
 
   pull_request:
     branches: [ main ]
@@ -25,8 +25,8 @@ jobs:
           git config --global user.name "Github Action"
           chmod +x exec_grabber.sh && ./exec_grabber.sh
           git add -A
-          git commit -m "Playlist updated."
-          git push
+          git commit -m "Playlist Update"
+          git push origin main
 
           runs:
             using: 'node20'
